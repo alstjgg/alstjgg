@@ -1,26 +1,33 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=90&section=header&text=Hello!&fontSize=45&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=90&section=header&text=Hello!&fontSize=45&animation=blinking)  
 
-안녕하세요, 데이터 속 새로운 가치를 발견하여 세상에 기여하고자 하는 개발자 박민서입니다.
+<h1 align='center'> Hi! :wave: I'm MinSeo Park</h1>
+<p align='center'>
+About me...
+</p>
 
-[CV & Portfolio](https://programmers.co.kr/pr/13579wkd_5121)
+### 🎓 Education  
+- Korea University, Department of Computer Science and Engineering  
+### 💼  Work
+- LINE Plus Corp
+### 🎯 CV & Portfolio  
+- [CV](https://programmers.co.kr/pr/13579wkd_5121)  
+- [Portfolio](https://drive.google.com/file/d/1MDYlAhGMFi9WilgvcjgbzwsbW2CtTusj/view?usp=sharing)
+### 🖥 Latest Metrics
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<table>
+ <tr>
+   <td>
+      <a>
+        <img src="https://metrics.lecoq.io/alstjgg?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FSeoul" />
+      </a>
+   </td>
+    <td>
+      <a href="https://solved.ac/13579wkd">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=13579wkd" />
+      </a>
+   </td>
+ </tr>
+</table>
+
 
 UPDATING...
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=13579wkd)](https://solved.ac/13579wkd)
-
-
-
-<!--
-**alstjgg/alstjgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
