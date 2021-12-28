@@ -6,9 +6,11 @@ About me...
 </p>
 
 ### 🎓 Education  
-- Korea University, Department of Computer Science and Engineering  
+- Korea University, Department of Computer Science and Engineering ```2016.03~2020.08```
 ### 💼  Work
-- LINE Plus Corp
+- LINE Plus Corp ```2021.12~```
+- Shinhan Bank ```2020.07~2021.07```
+- VIVANS ```2019.01~2019.02```
 ### 🎯 CV & Portfolio  
 - [CV](https://programmers.co.kr/pr/13579wkd_5121)  
 - [Portfolio](https://drive.google.com/file/d/1MDYlAhGMFi9WilgvcjgbzwsbW2CtTusj/view?usp=sharing)
