@@ -13,9 +13,9 @@ About me...
 - [CV](https://programmers.co.kr/pr/13579wkd_5121)  
 - [Portfolio](https://drive.google.com/file/d/1MDYlAhGMFi9WilgvcjgbzwsbW2CtTusj/view?usp=sharing)
 ### 🖥 Latest Metrics
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+[](#d3dae0)
 <table>
- <tr>
+ <tr valign="top">
    <td>
       <a>
         <img src="https://metrics.lecoq.io/alstjgg?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FSeoul" />
@@ -28,6 +28,5 @@ About me...
    </td>
  </tr>
 </table>
-
 
 UPDATING...
