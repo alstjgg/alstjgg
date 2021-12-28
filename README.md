@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=90&section=header&text=Thanks for visiting!&fontSize=45&animation=blinking)  
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=90&section=header&text=Thanks␣for␣visiting!&fontSize=45&animation=blinking)  
 
 <h1 align='center'> Hi! :wave: I'm MinSeo Park</h1>
 <p align='center'>
