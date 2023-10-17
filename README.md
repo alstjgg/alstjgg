@@ -5,12 +5,13 @@
 About me...
 </p>
 
+### 💼  Work
+- LINE Plus Data & Machine Learning Center Data-Driven AI Dev ```2022.12~```
+- LINE Plus Data & Machine Learning Center Shield Dev ```2021.12~2022.12```
+- Shinhan Bank Information Development Department ```2020.07~2021.07```
+- VIVANS ```2019.01~2019.02```
 ### 🎓 Education  
 - Korea University, Department of Computer Science and Engineering ```2016.03~2020.08```
-### 💼  Work
-- LINE Corporation Data & Machine Learning Center ```2021.12~```
-- Shinhan Bank Information Development Department```2020.07~2021.07```
-- VIVANS ```2019.01~2019.02```
 ### 🎯 CV & Portfolio  
 - [CV](https://programmers.co.kr/pr/13579wkd_5121)  
 - [Portfolio](https://drive.google.com/file/d/1MDYlAhGMFi9WilgvcjgbzwsbW2CtTusj/view?usp=sharing)
