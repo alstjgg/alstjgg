@@ -6,16 +6,17 @@ About me...
 </p>
 
 ### 💼  Work
-- LINE Plus AI Development Center Model Product Strategy Dev Data Scientist ```2024.02~```
-- LINE Plus Data & Machine Learning Center Data-Driven AI Dev Data Analyst ```2022.12~2024.01```
-- LINE Plus Data & Machine Learning Center Shield Dev Data Analyst ```2021.12~2022.12```
-- Shinhan Bank Information Development Department CRM Developer ```2020.07~2021.07```
-- VIVANS Research Intern```2019.01~2019.02```
+- LINE Plus, AI Development Center, AI Product Strategy Dev, Data Scientist ```2024.02~```
+- LINE Plus, Data & Machine Learning Center, Data-Driven AI Dev, Data Analyst ```2022.12~2024.01```
+- LINE Plus, Data & Machine Learning Center, Shield Dev, Data Analyst ```2021.12~2022.12```
+- Shinhan Bank, Information Development Department, CRM Developer ```2020.07~2021.07```
+- VIVANS, Research Intern```2019.01~2019.02```
 ### 🎓 Education  
 - Korea University, Department of Computer Science and Engineering ```2016.03~2020.08```
 ### 🎯 CV & Portfolio  
 - ~~[CV](https://programmers.co.kr/pr/13579wkd_5121)~~  
 - [Portfolio](https://drive.google.com/file/d/1MDYlAhGMFi9WilgvcjgbzwsbW2CtTusj/view?usp=sharing)
+- [Tech-Verse 22025](https://www.youtube.com/watch?v=4oBJgstA08Q)
 ### 🖥 Latest Metrics
 [](#d3dae0)
 <table>
