@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=90&section=header&text=Thanks␣for␣visiting!&fontSize=45&animation=blinking)  
 
 <h1 align='center'> Hi! :wave: I'm MinSeo Park</h1>
+Since 2022, I have worked at LINE Plus handling data across a range of domains, including anomaly detection, recommendation system development, and the design and analysis of AI service logs.  
+Currently, I am actively exploring and implementing ways to leverage AI to enhance operational efficiency.
 <p align='center'>
 About me...
 </p>
