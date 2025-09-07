@@ -16,7 +16,9 @@ About me...
 ### 🎯 CV & Portfolio  
 - ~~[CV](https://programmers.co.kr/pr/13579wkd_5121)~~  
 - [Portfolio](https://drive.google.com/file/d/1MDYlAhGMFi9WilgvcjgbzwsbW2CtTusj/view?usp=sharing)
-- [Tech-Verse 22025](https://www.youtube.com/watch?v=4oBJgstA08Q)
+- [Tech-Verse 2025](https://tech-verse.lycorp.co.jp/2025/ko/session/1157/)
+    - [Video](https://www.youtube.com/watch?v=4oBJgstA08Q)
+    - [Presentation Material](https://speakerdeck.com/lycorptech_jp/replacing-data-analysts-with-ai-building-data-pipelines-and-automating-analysis-with-generative-ai)
 ### 🖥 Latest Metrics
 [](#d3dae0)
 <table>
