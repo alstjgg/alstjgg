@@ -14,7 +14,8 @@ About me...
 ### 🎓 Education  
 - Korea University, Department of Computer Science and Engineering ```2016.03~2020.08```
 ### 🎯 CV & Portfolio  
-- ~~[CV](https://programmers.co.kr/pr/13579wkd_5121)~~  
+- ~~[CV](https://programmers.co.kr/pr/13579wkd_5121)~~
+- [LinkedIn](https://www.linkedin.com/in/minseo-sori-park/)
 - [Portfolio](https://drive.google.com/file/d/1MDYlAhGMFi9WilgvcjgbzwsbW2CtTusj/view?usp=sharing)
 - [Tech-Verse 2025](https://tech-verse.lycorp.co.jp/2025/ko/session/1157/)
     - [Video](https://www.youtube.com/watch?v=4oBJgstA08Q)
